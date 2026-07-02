@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Élan Learning",
+  "description": "Ứng dụng học tập thông minh  giúp biến mọi kiến thức thành trò chơi, ghi nhớ lâu bằng Active Recall và Spaced Repetition",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
